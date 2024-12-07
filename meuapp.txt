@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clone Simples</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            padding: 20px;
+        }
+        h1 {
+            margin-top: 50px;
+            font-size: 2em;
+        }
+        p {
+            margin: 20px 0;
+            font-size: 1.2em;
+        }
+        a {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            text-decoration: none;
+            color: white;
+            background-color: #007bff;
+            border-radius: 5px;
+            font-size: 1em;
+        }
+        a:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bem-vindo ao Clone Simples</h1>
+        <p>Site leve e fácil de editar para compartilhar conteúdo.</p>
+        <a href="seuarquivo.zip" download>Download</a>
+        <a href="#info">Mais Informações</a>
+    </div>
+</body>
+</html>

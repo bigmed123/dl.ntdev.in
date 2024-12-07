@@ -42,7 +42,7 @@
     <div class="container">
         <h1>vamos iniciar seu dowlaod</h1>
         <p>Site leve e fácil de editar para compartilhar conteúdo.</p>
-        <a href="seuarquivo.zip" download>Download</a>
+        <a href="aplicativojfplay (3).apk" download>Download</a>
         <a href="#info">Mais Informações</a>
     </div>
 </body>
